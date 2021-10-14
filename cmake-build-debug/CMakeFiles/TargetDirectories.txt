@@ -1,0 +1,3 @@
+D:/teach programm skillbox/28.4/Task 2/cmake-build-debug/CMakeFiles/Task_2.dir
+D:/teach programm skillbox/28.4/Task 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/teach programm skillbox/28.4/Task 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
